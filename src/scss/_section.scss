@@ -59,7 +59,9 @@
   }
   .section__photo__block {
     width: 100%;
+    max-width: 342px;
     height: 350px;
+
     &.image--first {
       background-image: url("../images/image3.png");
     }
